@@ -13,7 +13,7 @@ unhideButton.addEventListener("click", () => {
     // IN THIS CLICK FUNCTION select the h1 element again (or use the select from number 11) and set the style.display = "block"; to show the h1
     heading.style.display = "block";
     // IN YOUR JS FILE select the H1 element and set the textContent = some text
-    heading.textContent = "SOME TEXT";
+    heading.textContent = "PEOPLE";
 });
 
 //////////////////////////////////////////////////////////////////////////
