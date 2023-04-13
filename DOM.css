@@ -1,0 +1,28 @@
+/* IN YOUR CSS FILE select the H1 element and give it some styles */
+h1 {
+    color: red;
+    font-size: 150px;
+    }
+
+/*************************************************/
+
+.change {
+    color: blue;
+    font-size: 150px;
+}
+
+/* IN YOUR CSS FILE select the button and style it */
+button {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    }
+button:hover {
+    background-color: darkred;
+    color: white;
+    font-weight: bold;
+    }
